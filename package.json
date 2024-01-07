@@ -1,0 +1,22 @@
+{
+  "name": "starsss",
+  "version": "1.0.1",
+  "description": "",
+  "main": "dist/index.js",
+  "presets": [
+    "@babel/preset-react"
+  ],
+  "scripts": {
+    "build": "babel src --out-dir dist"
+  },
+  "author": "Venusai",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.23.7",
+    "@babel/preset-react": "^7.23.3"
+  },
+  "peerDependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
