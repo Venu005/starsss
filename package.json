@@ -1,8 +1,8 @@
 {
   "name": "starsss",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "",
-  "main": "dist/index.js",
+  "main": "dist/StarRating.js",
   "presets": [
     "@babel/preset-react"
   ],
