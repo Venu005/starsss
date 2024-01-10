@@ -45,7 +45,7 @@ A React component for displaying a star rating.
 
 ```jsx
 import { useState } from "react";
-import StarRating from "star-rating";
+import StarRating from "starsss";
 
 function Test() {
   const [rating, setRating] = useState(0);
