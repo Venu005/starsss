@@ -1,5 +1,7 @@
 # star-rating
 
+http://npm-stats.org/#/starsss
+
 # Star Rating
 
 Star Rating is a customizable React component for displaying and interacting with star ratings.
